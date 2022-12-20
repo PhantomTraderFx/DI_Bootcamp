@@ -1,0 +1,54 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* standard tag */
+
+i {
+    color: white;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+
+
+/* end */
+
+/* header section */
+
+.header {
+    margin-bottom: 200px;
+    position: sticky;
+    padding: 15px;
+    background-color: black;
+    height: 50px;
+    width: 100%;
+}
+
+.nav-bar-link {
+    color: white;
+    text-decoration: none;
+}
+
+/* end header section */
+
+/* footer */
+
+.footer {
+    padding: 15px;
+    background-color: black;
+    height: 50px;
+    width: 100%;
+}
+
+.footer p {
+    text-align: center;
+    color: white;
+}
+
+/* end */
